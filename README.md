@@ -1,6 +1,6 @@
 **Zachary T Burns**
 
-I am a PhD Student at UC San Diego in the ECE department studying computational optics with a focus on using deep learning for image reconstruction and photonic design.
+I am a PhD Student at UC San Diego in the ECE department studying computational optics with a focus on using deep learning for image reconstruction and photonic inverse design.
 
 For more information:
 [LinkedIn](https://www.linkedin.com/in/zachary-burns-b25958181/)
