@@ -3,6 +3,7 @@
 I am a PhD Student at UC San Diego in the ECE department studying computational optics with a focus on using deep learning for image reconstruction, super-resolution microscopy, and inverse design for diffractive optics.
 
 For more information:\
+[Personal Website](https://zach-t-burns.github.io)\
 [LinkedIn](https://www.linkedin.com/in/zachary-burns-b25958181/)\
 [Google Scholar](https://scholar.google.com/citations?user=BB7j9iwAAAAJ&hl=en)
 
